@@ -1,3 +1,0 @@
-Déposez ici les photos de l'église (JPG ou PNG, idéalement moins de 500 Ko),
-puis ajoutez-les dans config.js → galerie.photos, par exemple :
-  { src: "photos/croisade-2026.jpg", legende: "Croisade 2026" }
